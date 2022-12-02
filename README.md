@@ -1,6 +1,6 @@
 # Calculator
 
-It is my first flutter app: A Simple Calculator which can perform all simple caculations
+It is my first flutter app: A Simple Calculator which can perform all simple calculations
 
 ## Getting Started
 
